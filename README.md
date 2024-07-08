@@ -14,14 +14,14 @@
 - [About The Project](#about-the-project)
 - [System Architecture](#system-architecture)
   - [Speech Recognition](#speech-recognition)
-  - [TTS & STT-](#TTS-&-STT-)
--[Imported Modules](#imported-modules)
-  -[SYS MODULE](#SYS-MODULE)
-  -[pywhatkit](#pywhatkit)
-  -[OS MODULE](#OS-MODULE)
-  -[WIKIPEDIA](#WIKIPEDIA)
-  -[DATETIME](#datetime)
-  -[PYTTSX3](#pyttsx3)
+  - [TTS & STT-](#tts-&-stt)
+- [Imported Modules](#imported-modules)
+  - [SYS MODULE](#sys-module)
+  - [pywhatkit](#pywhatkit)
+  - [OS MODULE](#os-module)
+  - [WIKIPEDIA](#wikipedia)
+  - [DATETIME](#datetime)
+  - [PYTTSX3](#pyttsx3)
     
 ## About The Project
 
