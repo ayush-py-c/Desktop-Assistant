@@ -12,10 +12,17 @@
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
-  
 - [System Architecture](#system-architecture)
-
-
+  - [Speech Recognition](#speech-recognition)
+  - [TTS & STT-](#TTS-&-STT-)
+-[Imported Modules](#imported-modules)
+  -[SYS MODULE](#SYS-MODULE)
+  -[pywhatkit](#pywhatkit)
+  -[OS MODULE](#OS-MODULE)
+  -[WIKIPEDIA](#WIKIPEDIA)
+  -[DATETIME](#datetime)
+  -[PYTTSX3](#pyttsx3)
+    
 ## About The Project
 
 ![WhatsApp Image 2024-07-08 at 21 25 18_98d08b76](https://github.com/ayush-py-c/Desktop-Assistant/assets/85986862/cbbb4bf4-ee83-4056-967d-70fe96f62178)
